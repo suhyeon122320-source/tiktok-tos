@@ -17,3 +17,6 @@ The Service is provided "as is". We are not responsible for any changes in TikTo
 
 ## 6. Contact Us
 If you have any questions, please contact us at [본인 이메일 주소].
+
+# verification
+tiktok-developers-site-verification=rXy2qCha1QwCcZ73KKCeLBMZExjvAS0B
